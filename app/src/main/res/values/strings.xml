@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TelaLogin</string>
+    <string name="lembrar">Lembrar</string>
+    <string name="esqueceu_sua_senha">Esqueceu sua senha?</string>
 </resources>
